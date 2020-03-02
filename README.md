@@ -35,3 +35,5 @@ page.  Example, src/pages/home contains Home.js.  In src/pages/home you will als
 In src/shared you will keep all components that are shared between pages.  Example, src/shared contains Layout.js and Navigation.js.  
 These two components will be rendered on each page.  In fact, Layout.js in the parent component of each page.  Layout.js is also
 responsible for rendering Navigation.js.
+
+To begin, clone this repo into your project folder.  Then from your project folder directory, run 'npm install'.  To run the development server, use 'npm run start'.
