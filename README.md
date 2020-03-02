@@ -2,7 +2,7 @@ A boilerplate for Mithril.js Single Page Applications.
 
 This project template assumes you are using the parcel-bundler package installed globally from NPM.  
 
-
+```
 .
 |---src
 |   |---models
@@ -20,6 +20,7 @@ This project template assumes you are using the parcel-bundler package installed
 |
 |---index.html
 |---package.json
+```
 
 Starting in the src folder you will find index.js.  It is the root of the application.  Here you will define your routes to each page and
 mount your application to the div#app element in the index.html file.  
