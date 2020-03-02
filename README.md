@@ -9,6 +9,7 @@ This project template assumes you are using the parcel-bundler package installed
 |   |---pages
 |   |   |---about
 |   |   |   |---About.js
+|   |   |
 |   |   |---home
 |   |       |---Home.js
 |   |
